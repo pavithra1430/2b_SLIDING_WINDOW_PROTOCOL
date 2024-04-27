@@ -57,11 +57,6 @@ while True:
  ```
 
 ## OUPUT
-## SEVER
-
-
-## 
-
-
+![image](https://github.com/pavithra1430/2b_SLIDING_WINDOW_PROTOCOL/assets/168256810/d0a7007a-55b2-4ea2-a8cd-f35fc4c11361)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
